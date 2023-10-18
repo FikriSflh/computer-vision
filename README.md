@@ -3,3 +3,4 @@ Computer vision adalah bidang ilmu yang berkaitan dengan pengembangan teknologi 
 
 Computer vision digunakan dalam berbagai aplikasi, termasuk otomatisasi industri, pengawasan keamanan, kendaraan otonom, pengolahan medis, pengenalan karakter optik (OCR), augmented reality, pemrosesan gambar medis, dan banyak lagi. Kemajuan dalam deep learning dan teknik pembelajaran mesin telah menghasilkan kemajuan besar dalam kemampuan sistem computer vision untuk melakukan tugas-tugas yang semakin kompleks dan akurat.
 <img width="960" alt="SSan github" src="https://github.com/FikriSflh/computer-vision/assets/148163834/ffbdf97a-91a5-4286-8c6b-a5fc50cabc5e">
+<img width="960" alt="SSan github sumber" src="https://github.com/FikriSflh/computer-vision/assets/148163834/48182d31-80cb-4e00-b8df-0250268c4300">
